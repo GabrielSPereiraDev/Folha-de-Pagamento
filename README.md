@@ -1,6 +1,8 @@
 # Payable System — Sistema de Folha de Pagamento
  
- 	Um sistema em Java para processamento e gestão polimórfica de folha de pagamento. O projeto demonstra conceitos fundamentais de Programação Orientada a Objetos, como herança, polimorfismo, encapsulamento, interfaces e validações de regras de negócio.
+ 	Um sistema em Java para processamento e gestão polimórfica de folha de pagamento. 
+	Esse projeto é um estudo baseado no livro DEITEL, Paul; DEITEL, Harvey. Java: como programar.
+	O projeto demonstra conceitos fundamentais de Programação Orientada a Objetos, como herança, polimorfismo, encapsulamento, interfaces e validações de regras de negócio.
  	
 ## Visão Geral
  	
